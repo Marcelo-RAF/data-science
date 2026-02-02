@@ -1,0 +1,368 @@
+id_client,category,price,state_name,gender
+37,Electronics,"72,93",ND,Genderqueer
+38,Jewelry,"121,89",PA,Male
+39,Baby,"64,3",MA,Female
+40,Outdoors,"9,48",OR,Female
+5,Outdoors,"61,95",MN,Female
+6,Outdoors,"15,96",VA,Male
+7,Beauty,"149,02",CO,Male
+8,Games,"97,38",TX,Male
+9,Outdoors,"139,96",PA,Female
+10,Shoes,"55,45",CA,Female
+11,Jewelry,"96,16",NC,Female
+12,Computers,"104,93",CA,Female
+13,Baby,"92,52",TX,Genderfluid
+14,Grocery,"108,42",TX,Male
+15,Shoes,"144,17",DC,Female
+16,Computers,"5,45",TX,Male
+17,Sports,"5,12",VA,Female
+18,Games,"29,3",OH,Female
+19,Toys,"9,34",MD,Male
+20,Music,"94,53",LA,Genderfluid
+21,Computers,"16,72",LA,Female
+22,Tools,"32,56",LA,Female
+23,Beauty,"6,84",FL,Female
+24,Grocery,"10,44",GA,Female
+25,Clothing,"85,65",LA,Male
+26,Industrial,"133,3",LA,Female
+27,Baby,"69,98",TX,Male
+28,Jewelry,"48,58",MI,Female
+29,Home,"142,53",MI,Male
+30,Industrial,"99,03",OH,Female
+31,Toys,"87,62",NE,Male
+32,Home,"141,11",CA,Male
+33,Books,"68,77",FL,Male
+34,Home,"15,12",WA,Male
+35,Movies,"96,45",VA,Male
+36,Health,"123,38",TX,Male
+37,Home,"58,77",ND,Genderqueer
+38,Clothing,"117,56",PA,Male
+39,Clothing,"134,15",MA,Female
+40,Jewelry,"53,63",OR,Female
+41,Books,"82,78",MS,Male
+42,Movies,"132,11",CA,Female
+43,Computers,"59,74",TX,Male
+44,Automotive,"105,26",CA,Non-binary
+45,Shoes,"53,56",FL,Female
+46,Tools,"136,53",PA,Female
+47,Industrial,"106,66",AZ,Female
+48,Health,"93,46",MS,Genderfluid
+49,Books,"147,63",NY,Male
+50,Kids,"145,58",NV,Male
+51,Shoes,"81,44",NY,Female
+52,Health,"64,7",OR,Female
+53,Beauty,"60,66",DC,Polygender
+54,Industrial,"9,11",WV,Agender
+55,Industrial,"100,62",TX,Female
+56,Books,"132,4",MO,Male
+57,Kids,"60,75",MA,Non-binary
+58,Toys,"10,73",NV,Female
+59,Music,"90,98",NY,Female
+60,Movies,"95,97",CA,Male
+61,Kids,"54,04",CA,Female
+62,Grocery,97,CA,Male
+63,Beauty,"45,49",AR,Female
+64,Health,"99,37",SD,Female
+65,Games,"26,75",CA,Male
+66,Shoes,"85,94",LA,Male
+67,Jewelry,"17,25",KY,Male
+68,Games,"49,82",OR,Bigender
+69,Toys,"88,43",CA,Female
+70,Tools,"23,53",PA,Male
+71,Kids,"55,81",CA,Female
+72,Computers,"96,65",TX,Female
+73,Outdoors,"64,76",DC,Genderfluid
+74,Shoes,"61,25",NE,Male
+75,Movies,"141,32",LA,Female
+76,Shoes,"98,09",TX,Male
+77,Home,"95,54",CT,Female
+78,Health,"53,12",DC,Female
+79,Computers,"64,61",FL,Female
+1,Outdoors,"16,97",TX,Male
+2,Grocery,"143,39",MI,Male
+3,Music,"37,64",AL,Male
+4,Jewelry,"8,51",IL,Male
+5,Grocery,"28,42",MN,Female
+85,Kids,"139,38",DC,Female
+86,Shoes,"123,66",FL,Female
+87,Books,"66,68",ID,Male
+88,Tools,"23,51",CA,Female
+89,Baby,"81,13",TX,Female
+90,Clothing,"66,53",FL,Male
+91,Music,"86,24",FL,Male
+92,Industrial,"45,48",IN,Male
+93,Outdoors,"79,53",VA,Genderqueer
+94,Health,"92,86",CA,Female
+95,Electronics,"125,29",IL,Female
+96,Baby,"18,69",OH,Female
+97,Movies,"136,95",AL,Male
+98,Games,"114,69",PA,Male
+99,Clothing,"104,06",CA,Female
+100,Games,"146,54",AL,Agender
+101,Sports,"148,59",CA,Female
+102,Games,"25,12",NY,Male
+103,Kids,"33,69",NY,Male
+104,Electronics,"25,48",MN,Male
+105,Outdoors,"45,72",TX,Female
+106,Outdoors,"97,85",IN,Male
+107,Tools,"11,64",WA,Male
+108,Music,"39,52",NC,Female
+109,Garden,"128,48",OH,Male
+110,Computers,"54,2",TX,Genderfluid
+111,Beauty,"3,45",VA,Female
+112,Jewelry,"99,85",TX,Genderqueer
+113,Music,"65,25",DC,Male
+114,Movies,"12,17",IN,Female
+115,Tools,"32,57",AZ,Female
+116,Industrial,"42,22",CA,Non-binary
+117,Beauty,"125,24",GA,Female
+118,Beauty,"70,14",IL,Male
+119,Baby,"134,09",NC,Male
+120,Health,"67,75",NY,Male
+121,Industrial,"105,17",OH,Female
+122,Home,"99,16",KS,Female
+123,Beauty,"96,87",VA,Male
+124,Toys,"29,08",DC,Female
+125,Movies,"148,07",CA,Female
+126,Kids,"0,51",NJ,Male
+127,Industrial,"63,15",MI,Male
+128,Music,"137,43",NY,Male
+129,Electronics,"100,18",LA,Female
+112,Kids,"9,12",TX,Genderqueer
+113,Electronics,"8,23",DC,Male
+114,Home,"19,31",IN,Female
+115,Automotive,"130,2",AZ,Female
+116,Baby,"114,29",CA,Non-binary
+117,Baby,"69,25",GA,Female
+118,Kids,"50,04",IL,Male
+137,Baby,"15,52",IN,Agender
+138,Industrial,"29,28",OR,Male
+139,Tools,"31,04",MA,Female
+140,Baby,"2,58",PA,Female
+141,Beauty,"119,12",OH,Male
+142,Health,"138,62",TX,Male
+143,Games,"101,05",CA,Female
+144,Grocery,"9,42",UT,Male
+145,Grocery,"64,39",NJ,Female
+146,Toys,"85,19",FL,Male
+147,Shoes,"38,07",MA,Female
+148,Books,"116,73",ID,Female
+149,Tools,"63,01",TX,Female
+150,Electronics,"12,15",DC,Male
+151,Garden,"101,21",KS,Male
+152,Movies,"141,55",HI,Female
+153,Jewelry,"138,11",TN,Male
+154,Electronics,"107,81",NJ,Male
+155,Beauty,"133,1",DC,Male
+156,Computers,"93,13",FL,Male
+157,Beauty,"59,81",TX,Female
+158,Clothing,"144,9",IL,Genderfluid
+159,Electronics,"83,75",PA,Female
+160,Toys,"62,04",IL,Female
+161,Music,"104,63",NC,Male
+162,Kids,"24,71",DC,Female
+163,Beauty,"118,07",MD,Female
+164,Tools,"62,7",VA,Female
+165,Outdoors,"1,72",AL,Male
+166,Electronics,"114,02",IN,Male
+167,Electronics,"135,37",KS,Male
+168,Industrial,"17,52",TX,Male
+169,Sports,"5,84",AL,Female
+170,Music,"138,49",NY,Female
+171,Books,"35,85",UT,Male
+172,Automotive,"130,08",DC,Agender
+173,Kids,"28,38",NY,Male
+174,Sports,"36,35",OK,Male
+175,Kids,"141,71",OR,Female
+176,Home,"15,42",not specified,unknown
+177,Beauty,"48,98",not specified,unknown
+178,Baby,"143,16",not specified,unknown
+179,Games,"63,4",not specified,unknown
+180,Music,"40,5",not specified,unknown
+181,Sports,"22,1",not specified,unknown
+182,Tools,"139,85",not specified,unknown
+183,Movies,"56,22",not specified,unknown
+184,Beauty,"3,01",not specified,unknown
+185,Music,"32,31",not specified,unknown
+186,Jewelry,"143,78",not specified,unknown
+187,Baby,14,not specified,unknown
+188,Shoes,"37,69",not specified,unknown
+189,Sports,"126,99",not specified,unknown
+190,Outdoors,"90,35",not specified,unknown
+191,Outdoors,"145,23",not specified,unknown
+192,Industrial,"76,81",not specified,unknown
+193,Garden,"139,49",not specified,unknown
+194,Music,"62,52",not specified,unknown
+195,Tools,"88,32",not specified,unknown
+196,Grocery,"0,05",not specified,unknown
+197,Music,"7,86",not specified,unknown
+198,Computers,"47,01",not specified,unknown
+199,Health,"78,65",not specified,unknown
+200,Shoes,"131,44",not specified,unknown
+201,Kids,"147,38",not specified,unknown
+202,Industrial,"145,48",not specified,unknown
+203,Jewelry,"14,46",not specified,unknown
+204,Grocery,"129,2",not specified,unknown
+205,Movies,"140,56",not specified,unknown
+206,Automotive,"103,79",not specified,unknown
+207,Baby,"22,7",not specified,unknown
+208,Shoes,"33,57",not specified,unknown
+209,Toys,"103,24",not specified,unknown
+210,Jewelry,"105,43",not specified,unknown
+211,Sports,"3,04",not specified,unknown
+212,Games,"118,25",not specified,unknown
+213,Automotive,"17,47",not specified,unknown
+214,Electronics,"50,17",not specified,unknown
+215,Jewelry,"145,37",not specified,unknown
+216,Movies,"130,62",not specified,unknown
+217,Jewelry,"41,55",not specified,unknown
+218,Grocery,"10,59",not specified,unknown
+219,Sports,"143,34",not specified,unknown
+220,Computers,"109,29",not specified,unknown
+221,Garden,"118,94",not specified,unknown
+222,Kids,"51,39",not specified,unknown
+223,Kids,"99,74",not specified,unknown
+224,Clothing,"121,61",not specified,unknown
+225,Games,"39,03",not specified,unknown
+226,Kids,"42,28",not specified,unknown
+227,Computers,"56,59",not specified,unknown
+228,Kids,"21,39",not specified,unknown
+229,Tools,"12,09",not specified,unknown
+230,Automotive,"22,49",not specified,unknown
+231,Tools,"65,05",not specified,unknown
+232,Kids,"88,78",not specified,unknown
+233,Automotive,"85,21",not specified,unknown
+234,Books,"42,98",not specified,unknown
+235,Kids,"44,04",not specified,unknown
+236,Tools,"28,33",not specified,unknown
+237,Electronics,"68,68",not specified,unknown
+238,Shoes,"35,83",not specified,unknown
+130,Kids,"128,6",FL,Female
+131,Shoes,"111,91",AR,Female
+132,Industrial,"119,73",CT,Male
+133,Clothing,"113,71",DC,Female
+134,Outdoors,"101,06",VA,Female
+135,Shoes,"42,24",VA,Male
+136,Jewelry,"93,71",FL,Polygender
+137,Sports,"66,49",IN,Agender
+138,Kids,"34,86",OR,Male
+139,Sports,"138,76",MA,Female
+140,Sports,"4,31",PA,Female
+141,Industrial,"143,93",OH,Male
+142,Sports,"44,99",TX,Male
+143,Shoes,"27,43",CA,Female
+144,Industrial,"78,48",UT,Male
+145,Electronics,"43,57",NJ,Female
+146,Automotive,"66,52",FL,Male
+147,Movies,"23,51",MA,Female
+148,Jewelry,"5,12",ID,Female
+149,Movies,"4,9",TX,Female
+150,Games,"102,57",DC,Male
+151,Shoes,"112,89",KS,Male
+152,Home,"91,84",HI,Female
+153,Beauty,"88,43",TN,Male
+154,Beauty,"47,89",NJ,Male
+155,Tools,"60,42",DC,Male
+156,Beauty,"134,75",FL,Male
+157,Outdoors,"117,02",TX,Female
+158,Automotive,136,IL,Genderfluid
+159,Grocery,"115,03",PA,Female
+160,Computers,"64,25",IL,Female
+161,Industrial,"1,86",NC,Male
+162,Books,"93,91",DC,Female
+17,Industrial,"27,87",VA,Female
+18,Automotive,"116,19",OH,Female
+19,Computers,"3,72",MD,Male
+20,Kids,"36,02",LA,Genderfluid
+21,Outdoors,"31,34",LA,Female
+22,Home,"72,98",LA,Female
+23,Sports,"72,91",FL,Female
+24,Beauty,"76,3",GA,Female
+25,Music,"97,94",LA,Male
+26,Music,"77,58",LA,Female
+27,Baby,"129,78",TX,Male
+28,Electronics,"64,54",MI,Female
+29,Tools,"108,82",MI,Male
+30,Health,"51,88",OH,Female
+31,Toys,"68,69",NE,Male
+32,Kids,"68,66",CA,Male
+33,Industrial,"80,97",FL,Male
+34,Industrial,"24,8",WA,Male
+35,Movies,"67,89",VA,Male
+36,Industrial,"55,46",TX,Male
+37,Home,"36,27",ND,Genderqueer
+38,Clothing,"83,07",PA,Male
+39,Home,"112,25",MA,Female
+40,Sports,139,OR,Female
+41,Beauty,"85,16",MS,Male
+42,Automotive,"84,32",CA,Female
+43,Shoes,"35,57",TX,Male
+44,Home,29,CA,Non-binary
+45,Automotive,"4,34",FL,Female
+46,Garden,"132,73",PA,Female
+47,Home,"78,99",AZ,Female
+48,Grocery,"51,27",MS,Genderfluid
+49,Sports,"18,23",NY,Male
+50,Jewelry,"128,95",NV,Male
+51,Garden,"53,74",NY,Female
+52,Computers,"66,4",OR,Female
+53,Games,"17,67",DC,Polygender
+54,Industrial,"13,38",WV,Agender
+55,Baby,"41,92",TX,Female
+56,Home,"40,89",MO,Male
+57,Computers,"113,68",MA,Non-binary
+58,Music,"57,67",NV,Female
+59,Tools,"114,58",NY,Female
+60,Garden,"41,34",CA,Male
+61,Games,"7,24",CA,Female
+62,Grocery,"119,74",CA,Male
+63,Garden,"9,11",AR,Female
+64,Jewelry,"142,25",SD,Female
+65,Grocery,"78,53",CA,Male
+66,Music,"63,78",LA,Male
+67,Grocery,"108,03",KY,Male
+68,Beauty,"69,2",OR,Bigender
+69,Outdoors,"115,34",CA,Female
+70,Baby,"22,68",PA,Male
+71,Music,"125,82",CA,Female
+72,Jewelry,"41,3",TX,Female
+73,Health,"34,88",DC,Genderfluid
+74,Jewelry,"11,45",NE,Male
+75,Beauty,"91,49",LA,Female
+76,Health,"19,59",TX,Male
+77,Garden,"94,58",CT,Female
+78,Computers,"140,9",DC,Female
+79,Clothing,"32,87",FL,Female
+100,Kids,"54,37",AL,Agender
+101,Computers,"101,07",CA,Female
+102,Kids,"101,98",NY,Male
+103,Electronics,"92,96",NY,Male
+104,Grocery,"87,1",MN,Male
+105,Movies,"102,59",TX,Female
+106,Health,"77,19",IN,Male
+107,Tools,"16,65",WA,Male
+108,Kids,"56,68",NC,Female
+109,Electronics,"57,1",OH,Male
+110,Tools,"77,33",TX,Genderfluid
+111,Clothing,"136,63",VA,Female
+112,Games,28,TX,Genderqueer
+113,Toys,"115,39",DC,Male
+114,Jewelry,"45,94",IN,Female
+115,Beauty,"73,73",AZ,Female
+116,Music,"31,92",CA,Non-binary
+117,Beauty,"118,85",GA,Female
+118,Shoes,"91,23",IL,Male
+119,Jewelry,"129,51",NC,Male
+120,Baby,"24,97",NY,Male
+121,Clothing,"145,64",OH,Female
+122,Clothing,"46,16",KS,Female
+123,Books,"39,03",VA,Male
+124,Health,"142,63",DC,Female
+360,Games,"21,32",not specified,unknown
+361,Grocery,"87,23",not specified,unknown
+362,Clothing,"40,75",not specified,unknown
+363,Jewelry,"44,32",not specified,unknown
+364,Kids,"120,42",not specified,unknown
+365,Grocery,"24,31",not specified,unknown
+366,Tools,"111,53",not specified,unknown
+367,Computers,"84,57",not specified,unknown
